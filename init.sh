@@ -12,4 +12,4 @@ git config --global user.email fbiannahung@gmail.com
 git config --global user.name annahung31
 
 echo "to use git, please"
-echo "go to ~/.ssh/id_rsa.pub to copy the SSH key, and paste it on gitlab->profile->SSH key"
+echo "go to ~/.ssh/id_rsa.pub to copy the SSH key, and paste it on github->settings->SSH key"
